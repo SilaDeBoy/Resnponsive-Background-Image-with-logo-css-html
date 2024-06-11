@@ -1,0 +1,699 @@
+
+/*==========================================================*/
+
+
+
+/*===========================================================
+  ===========================================================
+  ===========================================================
+
+
+
+                     body
+
+
+
+
+    
+<!DOCTYPE html>
+<html lang="en" >
+    <head>
+        <!-------- Description  --------->
+        <meta name="descrption" content="This is a web page is about muvi We cover all the muvi in the world.">
+        <!-------- Keywords  --------->
+        <meta name="keywords" content="muvi, klick, watch movie">
+        <!-------- Author   --------->
+        <meta http-equiv="author" content="Sila de boy">
+        <!-------- Content Language   --------->
+        <meta http-equiv="content-language" content="en-us">
+        <!--- 8-bit Unicode Transformation Format Variable Width Character enable all Character to be encoded Include chines world , and Emoji ------>    
+        <meta charset="UTF-8">
+        <!-------- Compatible to all browsers   --------->
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <!-------- Compatible to all Size of phone   --------->
+        <meta name="viewport" contents="width-device-width,initial-scale=1.0">
+        <!-------- Like to pimp or paint imp the web   --------->
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <!-------- Title of the web   --------->
+        <title>www.muvi.com</title>
+    </head>
+
+    <body>
+	
+
+            
+            ˄
+            |
+            |
+            |
+            |
+            |
+            |
+
+            ˅
+            
+
+		
+
+    </body>
+</html>
+	
+
+
+
+
+
+        VITU VYOTE KWENYE BODY VISIWE NA SPACE 
+
+============================================================
+============================================================
+===========================================================*/
+
+
+
+*, *::after, *::before{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/*===========================================================
+  ===========================================================
+  ===========================================================
+
+
+                         body end
+
+
+============================================================
+============================================================
+===========================================================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*===========================================================
+  ===========================================================
+  ===========================================================
+
+
+
+                    body
+
+    
+                    
+
+
+
+
+    
+<!DOCTYPE html>
+<html lang="en" >
+    <head>
+        <!-------- Description  --------->
+        <meta name="descrption" content="This is a web page is about muvi We cover all the muvi in the world.">
+        <!-------- Keywords  --------->
+        <meta name="keywords" content="muvi, klick, watch movie">
+        <!-------- Author   --------->
+        <meta http-equiv="author" content="Sila de boy">
+        <!-------- Content Language   --------->
+        <meta http-equiv="content-language" content="en-us">
+        <!--- 8-bit Unicode Transformation Format Variable Width Character enable all Character to be encoded Include chines world , and Emoji ------>    
+        <meta charset="UTF-8">
+        <!-------- Compatible to all browsers   --------->
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <!-------- Compatible to all Size of phone   --------->
+        <meta name="viewport" contents="width-device-width,initial-scale=1.0">
+        <!-------- Like to pimp or paint imp the web   --------->
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <!-------- Title of the web   --------->
+        <title>www.muvi.com</title>
+    </head>
+
+    <body>
+	
+
+            
+            ˄
+            |
+            |
+            |
+            |
+            |
+            |
+
+            ˅
+            
+
+		
+
+    </body>
+</html>
+	
+	
+
+
+
+    VITU VYOTE KWENYE BODY BACKGROUND COLOR BLUE FLAN
+
+============================================================
+============================================================
+===========================================================*/
+
+
+
+
+
+body{
+    background: #2e8d86;
+}
+
+
+
+
+
+/*===========================================================
+  ===========================================================
+  ===========================================================
+
+
+
+
+                         body end
+
+
+
+============================================================
+============================================================
+===========================================================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*===========================================================
+  ===========================================================
+  ===========================================================
+
+
+
+                 banner  home__bg
+
+
+
+    
+<!DOCTYPE html>
+<html lang="en" >
+    <head>
+        <!-------- Description  --------->
+        <meta name="descrption" content="This is a web page is about muvi We cover all the muvi in the world.">
+        <!-------- Keywords  --------->
+        <meta name="keywords" content="muvi, klick, watch movie">
+        <!-------- Author   --------->
+        <meta http-equiv="author" content="Sila de boy">
+        <!-------- Content Language   --------->
+        <meta http-equiv="content-language" content="en-us">
+        <!--- 8-bit Unicode Transformation Format Variable Width Character enable all Character to be encoded Include chines world , and Emoji ------>    
+        <meta charset="UTF-8">
+        <!-------- Compatible to all browsers   --------->
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <!-------- Compatible to all Size of phone   --------->
+        <meta name="viewport" contents="width-device-width,initial-scale=1.0">
+        <!-------- Like to pimp or paint imp the web   --------->
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <!-------- Title of the web   --------->
+        <title>www.muvi.com</title>
+    </head>
+
+    <body>
+	
+	
+	    <!----------------------
+        ------------------------
+        ------   banner  -------
+        ------------------------ 
+        ----------------------->
+		<div class="banner">
+                   -------
+			
+            <!-------- background img --------->
+			
+			<img src="media/icon/home__bg.png" class="home__bg">
+			       --------
+            <!-------- background img end --------->
+			
+			
+
+                
+              <!----------------------------
+              -----    homebglogo   --------
+              ------------------------------>
+            
+			  <div class="homebglogo">
+		
+                  <!-------- logo img --------->
+                  
+                  <img src="media/icon/home__bg__logo.png" alt="" class="logo">
+            
+                   <!-------- logo img end --------->
+                  
+              </div>
+            
+              <!------------------------------
+              -----    homebglogo end --------
+              -------------------------------->
+                
+		</div>
+        
+        <!----------------------
+        ------------------------
+        ------ banner end ------
+        ------------------------ 
+        ----------------------->
+		
+		
+
+    </body>
+</html>
+	
+
+
+
+ VITU VYOTE KWENYE BODY BACKGROUND COLOR BLUE FLAN NA BACKGROUND IMAGE
+
+
+
+============================================================
+============================================================
+===========================================================*/
+
+
+
+
+
+
+.banner .home__bg{
+  width: 100%;
+  background: linear-gradient(to bottom, rgb(3, 35, 82,1), rgb(46, 141, 134,0.6));
+  background-position: center center;
+  background-size: cover;
+}
+
+
+
+
+/*===========================================================
+  ===========================================================
+  ===========================================================
+
+
+
+
+                         body end
+
+
+
+============================================================
+============================================================
+===========================================================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*===========================================================
+  ===========================================================
+  ===========================================================
+
+
+
+                          banner
+
+    
+
+<!DOCTYPE html>
+<html lang="en" >
+    <head>
+        <!-------- Description  --------->
+        <meta name="descrption" content="This is a web page is about muvi We cover all the muvi in the world.">
+        <!-------- Keywords  --------->
+        <meta name="keywords" content="muvi, klick, watch movie">
+        <!-------- Author   --------->
+        <meta http-equiv="author" content="Sila de boy">
+        <!-------- Content Language   --------->
+        <meta http-equiv="content-language" content="en-us">
+        <!--- 8-bit Unicode Transformation Format Variable Width Character enable all Character to be encoded Include chines world , and Emoji ------>    
+        <meta charset="UTF-8">
+        <!-------- Compatible to all browsers   --------->
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <!-------- Compatible to all Size of phone   --------->
+        <meta name="viewport" contents="width-device-width,initial-scale=1.0">
+        <!-------- Like to pimp or paint imp the web   --------->
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <!-------- Title of the web   --------->
+        <title>www.muvi.com</title>
+    </head>
+
+    <body>
+	
+	
+	    <!----------------------
+        ------------------------
+        ------   banner  -------
+        ------------------------ 
+        ----------------------->
+
+		<div class="banner">
+
+                
+              <!----------------------------===
+              -----    background img  --------
+              -------------------------------->
+
+			
+                    <!-------- background img --------->
+			
+			        <img src="media/icon/home__bg.png" class="home__bg">
+			
+                    <!-------- background img end --------->
+			
+            
+              <!----------------------------------
+              -----    background img end --------
+              ----------------------------------->
+                
+
+
+
+                
+              <!----------------------------
+              -----    homebglogo   --------
+              ------------------------------>
+            
+			         <div class="homebglogo">
+		
+                         <!-------- logo img --------->
+                  
+                         <img src="media/icon/home__bg__logo.png" alt="" class="logo">
+            
+                         <!-------- logo img end --------->
+                  
+                     </div>
+            
+              <!------------------------------
+              -----    homebglogo end --------
+              -------------------------------->
+                
+		</div>
+        
+        <!----------------------
+        ------------------------
+        ------ banner end ------
+        ------------------------ 
+        ----------------------->
+		
+		
+
+    </body>
+</html>
+	
+
+
+
+
+
+ VITU VYOTE KWENYE BODY BACKGROUND COLOR BLUE FLAN NA BACKGROUND IMAGE
+
+
+
+============================================================
+============================================================
+===========================================================*/
+
+
+
+
+
+
+.banner .home__bg{
+  width: 100%;
+  background: linear-gradient(to bottom, rgb(3, 35, 82,1), rgb(46, 141, 134,0.6));
+  background-position: center center;
+  background-size: cover;
+  opacity: 0.2;
+}
+
+
+
+
+/*===========================================================
+  ===========================================================
+  ===========================================================
+
+
+
+
+                         body end
+
+
+
+============================================================
+============================================================
+===========================================================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*===========================================================
+  ===========================================================
+  ===========================================================
+
+
+
+                    homebglogo logo
+
+
+
+<!DOCTYPE html>
+<html lang="en" >
+    <head>
+        <!-------- Description  --------->
+        <meta name="descrption" content="This is a web page is about muvi We cover all the muvi in the world.">
+        <!-------- Keywords  --------->
+        <meta name="keywords" content="muvi, klick, watch movie">
+        <!-------- Author   --------->
+        <meta http-equiv="author" content="Sila de boy">
+        <!-------- Content Language   --------->
+        <meta http-equiv="content-language" content="en-us">
+        <!--- 8-bit Unicode Transformation Format Variable Width Character enable all Character to be encoded Include chines world , and Emoji ------>    
+        <meta charset="UTF-8">
+        <!-------- Compatible to all browsers   --------->
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <!-------- Compatible to all Size of phone   --------->
+        <meta name="viewport" contents="width-device-width,initial-scale=1.0">
+        <!-------- Like to pimp or paint imp the web   --------->
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <!-------- Title of the web   --------->
+        <title>www.muvi.com</title>
+    </head>
+
+    <body>
+	
+	
+	    <!----------------------
+        ------------------------
+        ------   banner  -------
+        ------------------------ 
+        ----------------------->
+		<div class="banner">
+			
+            <!-------- background img --------->
+			
+			<img src="media/icon/home__bg.png" class="home__bg">
+			
+            <!-------- background img end --------->
+			
+			
+
+                
+              <!----------------------------
+              -----    homebglogo   --------
+              ------------------------------>
+            
+			  <div class="homebglogo">
+		
+                  <!-------- logo img --------->
+                  
+                  <img src="media/icon/home__bg__logo.png" alt="" class="logo">
+            
+                   <!-------- logo img end --------->
+                  
+              </div>
+            
+              <!------------------------------
+              -----    homebglogo end --------
+              -------------------------------->
+                
+		</div>
+        
+        <!----------------------
+        ------------------------
+        ------ banner end ------
+        ------------------------ 
+        ----------------------->
+		
+		
+
+    </body>
+</html>
+	
+
+
+
+
+
+
+============================================================
+============================================================
+===========================================================*/
+
+
+
+
+.homebglogo {
+    width: 100%;
+	height: 100%;
+	margin: -117px 0px;
+    padding: 35px 0px;
+	background-position: center center;
+    background-size: cover;
+
+
+}
+
+.logo{
+    width: 100%;
+	height: 100%;
+	margin-top: -840px;
+    cursor: pointer;
+}
+
+
+
+
+/*===========================================================
+  ===========================================================
+  ===========================================================
+
+
+
+
+                         body end
+
+
+
+============================================================
+============================================================
+===========================================================*/
+
+
+
+
+
+
+
+
+
+/*==========================================================*/
